@@ -1,0 +1,14 @@
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.AssemblyInfoInputs.cache
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.AssemblyInfo.cs
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\bin\Debug\net8.0\KutuphaneOtomasyonSistemi.exe
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\bin\Debug\net8.0\KutuphaneOtomasyonSistemi.deps.json
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\bin\Debug\net8.0\KutuphaneOtomasyonSistemi.runtimeconfig.json
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\bin\Debug\net8.0\KutuphaneOtomasyonSistemi.dll
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\bin\Debug\net8.0\KutuphaneOtomasyonSistemi.pdb
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.dll
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\refint\KutuphaneOtomasyonSistemi.dll
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.pdb
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\KutuphaneOtomasyonSistemi.genruntimeconfig.cache
+C:\Users\azat.titiz\source\repos\KutuphaneOtomasyonSistemi\KutuphaneOtomasyonSistemi\obj\Debug\net8.0\ref\KutuphaneOtomasyonSistemi.dll
